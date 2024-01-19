@@ -1,0 +1,1 @@
+# next-css-module-type
